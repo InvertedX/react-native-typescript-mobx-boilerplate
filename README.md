@@ -1,4 +1,4 @@
-## React Native Typescript Boilerplate
+## React Native Typescript , Mobx Boilerplate
 
 ## Included following libraries 
 
