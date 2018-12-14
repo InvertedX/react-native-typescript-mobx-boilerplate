@@ -11,6 +11,10 @@ interface props {
 @inject("counterStore")
 @observer
 class Profile extends Component<props, {}> {
+  static navigationOptions = {
+    title: "Profile"
+  };
+
   render() {
     return (
       <View
